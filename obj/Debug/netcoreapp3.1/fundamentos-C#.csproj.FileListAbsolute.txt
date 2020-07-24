@@ -1,0 +1,13 @@
+/home/yojan/Projects/fundamentos-C#/bin/Debug/netcoreapp3.1/fundamentos-C#
+/home/yojan/Projects/fundamentos-C#/bin/Debug/netcoreapp3.1/fundamentos-C#.deps.json
+/home/yojan/Projects/fundamentos-C#/bin/Debug/netcoreapp3.1/fundamentos-C#.runtimeconfig.json
+/home/yojan/Projects/fundamentos-C#/bin/Debug/netcoreapp3.1/fundamentos-C#.runtimeconfig.dev.json
+/home/yojan/Projects/fundamentos-C#/bin/Debug/netcoreapp3.1/fundamentos-C#.dll
+/home/yojan/Projects/fundamentos-C#/bin/Debug/netcoreapp3.1/fundamentos-C#.pdb
+/home/yojan/Projects/fundamentos-C#/obj/Debug/netcoreapp3.1/fundamentos-C#.csprojAssemblyReference.cache
+/home/yojan/Projects/fundamentos-C#/obj/Debug/netcoreapp3.1/fundamentos-C#.AssemblyInfoInputs.cache
+/home/yojan/Projects/fundamentos-C#/obj/Debug/netcoreapp3.1/fundamentos-C#.AssemblyInfo.cs
+/home/yojan/Projects/fundamentos-C#/obj/Debug/netcoreapp3.1/fundamentos-C#.csproj.CoreCompileInputs.cache
+/home/yojan/Projects/fundamentos-C#/obj/Debug/netcoreapp3.1/fundamentos-C#.dll
+/home/yojan/Projects/fundamentos-C#/obj/Debug/netcoreapp3.1/fundamentos-C#.pdb
+/home/yojan/Projects/fundamentos-C#/obj/Debug/netcoreapp3.1/fundamentos-C#.genruntimeconfig.cache
